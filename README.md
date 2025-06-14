@@ -1,4 +1,4 @@
-# wojciechtuznik.github.io
+
 ### Wojciech Tużnik
 
 **O mnie**
@@ -10,4 +10,4 @@ Dysponuję solidną wiedzą z zakresu automatyki – potrafię czytać schematy 
 Stale rozwijam swoje umiejętności techniczne, śledząc najnowsze technologie i innowacje w obszarze automatyzacji i robotyzacji. 
 
 Jestem otwarty na współpracę oraz gotowy na nowe wyzwania, które pozwolą mi zdobywać cenne doświadczenie zawodowe i dalej się rozwijać.
-theme:jekyll-theme-midnight
+
